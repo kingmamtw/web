@@ -1,0 +1,37 @@
+﻿qzTotal=25&
+&Name=[聲音中英文]_基礎單字1200 A001-A005&
+&TypeNo=3&
+&QFont2=標楷體&QFont3=標楷體&
+&&FontSize2=30&&FontSize3=30&
+&B0A1=S&B0A2=T&B0A3=T&
+
+&B1A1=&B1A2=bad&B1A3=壞的&
+&B2A1=&B2A2=sad&B2A3=傷心的&
+&B3A1=&B3A2=bat&B3A3=蝙蝠&
+&B4A1=&B4A2=hat&B4A3=帽子&
+&B5A1=&B5A2=fat&B5A3=胖的&
+&B6A1=&B6A2=mad&B6A3=生氣的 發瘋的&
+&B7A1=&B7A2=map&B7A3=地圖&
+&B8A1=&B8A2=mat&B8A3=草蓆&
+&B9A1=&B9A2=rat&B9A3=老鼠&
+&B10A1=&B10A2=cat&B10A3=貓&
+&B11A1=&B11A2=cap&B11A3=鴨舌帽&
+&B12A1=&B12A2=can&B12A3=罐頭 桶子&
+&B13A1=&B13A2=fan&B13A3=電扇 歌迷 粉絲&
+&B14A1=&B14A2=ant&B14A3=螞蟻&
+&B15A1=&B15A2=dog&B15A3=狗&
+&B16A1=&B16A2=for&B16A3=為了&
+&B17A1=&B17A2=book&B17A3=書本&
+&B18A1=&B18A2=look&B18A3=看&
+&B19A1=&B19A2=cook&B19A3=烹調&
+&B20A1=&B20A2=good&B20A3=好的&
+&B21A1=&B21A2=poor&B21A3=貧困的&
+&B22A1=&B22A2=big&B22A3=大的&
+&B23A1=&B23A2=pig&B23A3=豬&
+&B24A1=&B24A2=dig&B24A3=掘(土) 挖(洞)&
+&B25A1=&B25A2=hit&B25A3=打擊 襲擊&
+
+
+
+
+&okflag=1&
